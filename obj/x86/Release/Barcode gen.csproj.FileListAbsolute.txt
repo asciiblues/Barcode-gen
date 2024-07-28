@@ -1,0 +1,44 @@
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\libSkiaSharp.dylib
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\x86\libSkiaSharp.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\x64\libSkiaSharp.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\arm64\libSkiaSharp.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\x64\libSkiaSharp.so
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\arm\libSkiaSharp.so
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\arm64\libSkiaSharp.so
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\musl-x64\libSkiaSharp.so
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\Barcode gen.exe.config
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\Barcode gen.exe
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\Barcode gen.pdb
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\SkiaSharp.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\Spire.Barcode.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Buffers.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Memory.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Numerics.Vectors.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Resources.Extensions.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Runtime.CompilerServices.Unsafe.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Text.Encodings.Web.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Text.Json.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Threading.Tasks.Extensions.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.ValueTuple.dll
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\Microsoft.Bcl.AsyncInterfaces.xml
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\SkiaSharp.pdb
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\SkiaSharp.xml
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\Spire.Barcode.xml
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Buffers.xml
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Memory.xml
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Numerics.Vectors.xml
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Resources.Extensions.xml
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Runtime.CompilerServices.Unsafe.xml
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Text.Encodings.Web.xml
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Text.Json.xml
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.Threading.Tasks.Extensions.xml
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\bin\x86\Release\System.ValueTuple.xml
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\obj\x86\Release\Barcode gen.csproj.AssemblyReference.cache
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\obj\x86\Release\Barcode_gen.Form1.resources
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\obj\x86\Release\Barcode_gen.Properties.Resources.resources
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\obj\x86\Release\Barcode gen.csproj.GenerateResource.cache
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\obj\x86\Release\Barcode gen.csproj.CoreCompileInputs.cache
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\obj\x86\Release\Barcode .8493485D.Up2Date
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\obj\x86\Release\Barcode gen.exe
+G:\ziyan\office\Windows app\Barcode gen\Barcode gen\obj\x86\Release\Barcode gen.pdb
